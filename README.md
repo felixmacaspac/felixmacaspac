@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Felix</h1>
 
-- 🌱 I’m currently learning **React & Web Design**
+🌱 I’m currently learning **React & Web Design**
 
-- 👨‍💻 All of my projects are available at [#](#)
+💻 All of my projects are available at [#](#)
 
-- 📫 How to reach me **fmacaspac@protonmail.com**
+📫 How to reach me **fmacaspac@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
