@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">Working on becoming a Jr. Front-end Developer based in Philippines</h3>
 
 - 🌱 I’m currently learning **React & Web Design**
 
 - 👨‍💻 All of my projects are available at [#](#)
 
-- 📫 How to reach me **felixmichaelcmacaspac@gmail.com**
+- 📫 How to reach me **fmacaspac@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
