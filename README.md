@@ -1,4 +1,4 @@
-<h1>Hi, I'm Felix!</h1>👋
+<h1>Hi, I'm Felix! 👋</h1>
 
 🌱 I’m currently learning **React & Web Design**
 
