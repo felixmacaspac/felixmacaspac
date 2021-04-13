@@ -1,5 +1,5 @@
 <h1>Hi, I'm Felix! 👋</h1>
-<h3>🌱 I’m currently learning **React & Web Design**</h3>
+<p>🌱 I’m currently learning <b>React & Web Design</b></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
