@@ -1,4 +1,4 @@
-<h1>Hi, I'm Felix! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<h1>Hi, I'm Felix! 👋</h1>)](https://git.io/typing-svg)
 <p>• 🖥️ I’m currently learning <b>React & Web Design</b></p>
 
 <hr>
