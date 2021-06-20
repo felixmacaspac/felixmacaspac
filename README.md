@@ -15,6 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmacaspac&show_icons=true&theme=material-palenight&hide_border=true" width="%100" height="180px">
   </div>
 
-### [Discord]() Community!
+### [Discord]() Community! 🌐
   
 [![TheNoobProgrammers](https://discordapp.com/api/guilds/825906045078994965/widget.png?style=banner3)](https://discord.gg/43QedkscVS)
