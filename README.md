@@ -15,6 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmacaspac&show_icons=true&theme=material-palenight&hide_border=true" width="%100" height="180px">
   </div>
 
-### [Discord]() Communities
+### [Discord]() Community!
   
-[![Community](https://discordapp.com/api/guilds/825906045078994965/widget.png?style=banner2)](https://wrngnz.ga/discord) [![Community](https://discordapp.com/api/guilds/747878206996086834/widget.png?style=banner2)](https://wareneutron.com/discord)
+[![TheNoobProgrammers](https://discordapp.com/api/guilds/825906045078994965/widget.png?style=banner3)](https://discord.gg/43QedkscVS)
