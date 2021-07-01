@@ -11,7 +11,7 @@
 <br />
 
   <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=felixmacaspac&show_icons=true&theme=material-palenight&hide_border=true" width="%100" height="180px">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=felixmacaspac&show_icons=true&theme=material-palenight&hide_border=true" width="%100" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixmacaspac&show_icons=true&theme=material-palenight&hide_border=true" width="%100" height="180px">
   </div>
 
