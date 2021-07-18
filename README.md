@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/felixmacaspac" target="_blank">
 <img src="https://shields.io/badge/GITHUB-232225.svg?&style=for-the-badge&logo=github"></a>
-<a href="https://discord.com/users/650354818401173515" target="_blank">
+<a href="https://discord.com/users/750345569737900074" target="_blank">
 <img src="https://shields.io/badge/DISCORD-232225.svg?&style=for-the-badge&logo=discord"></a>
 <a href="https://www.linkedin.com/in/felixmacaspac/" target="_blank">
 <img src="https://shields.io/badge/LINKEDIN-232225.svg?&style=for-the-badge&logo=linkedin"></a>
