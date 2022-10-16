@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Felix](felixdev.netlify.app/)
+# Hello! 👋 I'm [Felix](https://felixdev.netlify.app/)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=felixmacaspac&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
