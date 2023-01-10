@@ -1,4 +1,6 @@
-# Hello! 👋 I'm [Felix](https://felixdev.netlify.app/)
+# Hello! 👋 I'm [Felix](https://felixmacaspac.dev)
+Front-end engineer with nearly two years of experience. Also a certified HubSpot CMS Developer who works on HubSpot CMS-related projects with HubL, HTML, CSS, and JavaScript. Also working on some fantastic projects that make use of React, Nextjs, and Tailwind.
+
 [![@felixmacaspac's Holopin board](https://holopin.me/felixmacaspac)](https://holopin.io/@felixmacaspac)
 
 ### 📊 GitHub Stats:
