@@ -4,7 +4,6 @@ Front-end engineer with nearly two years of experience. Also a certified HubSpot
 [![@felixmacaspac's Holopin board](https://holopin.me/felixmacaspac)](https://holopin.io/@felixmacaspac)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=felixmacaspac&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felixmacaspac&theme=midnight-purple&hide_border=false)
 
 ### 📜 Certifications
