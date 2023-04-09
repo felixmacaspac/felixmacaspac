@@ -1,5 +1,6 @@
 # Hello! 👋 I'm [Felix](https://felixmacaspac.dev)
-Front-end engineer with nearly two years of experience. Also a certified HubSpot CMS Developer who works on HubSpot CMS-related projects with HubL, HTML, CSS, and JavaScript. Also working on some fantastic projects that make use of React, Nextjs, and Tailwind.
+### About me 👨‍💻
+Front-end Developer with 2+ years of experience. I love working on HubSpot CMS projects and my current tech stack right now is React, NextJS, and TailwindCSS.
 
 [![@felixmacaspac's Holopin board](https://holopin.me/felixmacaspac)](https://holopin.io/@felixmacaspac)
 
