@@ -6,9 +6,3 @@ Front-end Developer with 3 years of experience. Currently taking BS in Computer 
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felixmacaspac&theme=midnight-purple&hide_border=false)
-
-### 📜 Certifications
-<ol>
-  <li><a target="_blank" href="https://app.hubspot.com/academy/achievements/clt3bnwb/en/1/felix-macaspac/hubspot-cms-for-developers">HubSpot CMS for Developers ↗️</a></li> 
-  <li><a target="_blank" href="https://app.hubspot.com/academy/achievements/9z322p95/en/1/felix-macaspac/hubspot-marketing-software📜">HubSpot Marketing Software ↗️</a></li> 
-</ol>
