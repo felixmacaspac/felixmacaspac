@@ -5,5 +5,4 @@ Front-end Developer with 3 years of experience. Currently taking BS in Computer 
 [![@felixmacaspac's Holopin board](https://holopin.me/felixmacaspac)](https://holopin.io/@felixmacaspac)
 
 ### 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixmacaspac)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixmacaspac&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
