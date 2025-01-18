@@ -1,6 +1,6 @@
 # Hello! 👋 I'm [Felix](https://felixmacaspac.dev) -- ![](https://komarev.com/ghpvc/?username=felixmacaspac)
 ### About me 👨‍💻
-Front-end Developer with 3 years of experience. Currently taking BS in Computer Science with specialization in Machine Learning. I love working on HubSpot CMS projects and my current tech stack right now is React, NextJS, and TailwindCSS.
+Frontend Developer with 4 years of experience, Experienced in React, NextJS, TypeScript, and TailwindCSS, with specialization in HubSpot CMS development. Proven track record of optimizing performance and delivering exceptional user experiences across international clients.
 
 [![@felixmacaspac's Holopin board](https://holopin.me/felixmacaspac)](https://holopin.io/@felixmacaspac)
 
